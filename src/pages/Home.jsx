@@ -5,7 +5,7 @@ function Home() {
         <div className="hero-content">
 
           <span className="badge">
-            🚀 Work From Home Careers
+            🚀 Work From Home Jobs  Careers
           </span>
 
           <h1>
